@@ -6,7 +6,7 @@ tags: [markdown, demo]
 author: Demo Author
 ---
 
-这是一篇**newchange**，用来观察 `.md` 是如何被加载、解析并用 Razor 页面渲染出来的。 
+这是一篇**newchange**，用来观察 `.md` 是如何被加载、解析并用 Razor 页面渲染出来的
 
 ## 你可以改这里验证热更新
 
